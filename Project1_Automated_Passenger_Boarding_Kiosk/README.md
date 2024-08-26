@@ -107,10 +107,10 @@ STORAGE_ACCOUNT_CONNECTION_STRING=...
 7. Test Custom Vision model on sample carry-on images
 8. Display final validation success/failure message to complete boarding process
 
-![Architectural Diagram](./step_1_problem_definition_system_design/Architecture-Guideline.png)
+![Architectural Diagram](./Step%201%20-%20Problem%20Definition%20&%20System%20Design/Architecture.png)
 
 **Boarding granted**
-![Boarding granted](./step_5_validation_metrics_monitoring/all_validations_passed.jpg)
+![Boarding granted](./Step%205%20-%20Validation%20and%20Metrics%20Monitoring/Passed%20All%20Validations.jpg)
 
 **Boarding denied (name mismatch)**
-![Boarding denied](./step_5_validation_metrics_monitoring/named_not_validated.jpg)
+![Boarding denied](./Step%205%20-%20Validation%20and%20Metrics%20Monitoring/Name%20Not%20Validated.jpg)
