@@ -46,7 +46,7 @@ Traditional boarding processes often entail cumbersome manual verification proce
 - 15-30 second video of each passenger's face
 - Photo of each passenger's carry-on items
 
-![Data Flow Diagram](./step_1_problem_definition_system_design/DataFlowDiagram.png)
+![Data Flow Diagram](./Project1_Automated_Passenger_Boarding_Kiosk/Step 1 - Problem Definition & System Design/DataFlowDiagram.png)
 
 ### Azure AI Services Used
 
